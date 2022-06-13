@@ -18,7 +18,7 @@ app.set('view engine', 'handlebars');
 //
 
 const sess = {
-    secret: 'the sun, the moon, and the stars, grim reaping',
+    secret: 'the sun, the moon, and the stars grim reaping',
     cookie: {},
     resave: false,
     saveUninitialized: true,
